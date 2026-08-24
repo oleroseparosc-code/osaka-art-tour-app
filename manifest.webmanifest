@@ -1,0 +1,24 @@
+{
+  "name": "오사카 아트투어",
+  "short_name": "오사카 아트투어",
+  "id": "./",
+  "description": "2026 오사카·고베·교토 아트투어 일정",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f8fafc",
+  "theme_color": "#111827",
+  "icons": [
+    {
+      "src": "./icons/church-of-wind-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./icons/church-of-wind-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
